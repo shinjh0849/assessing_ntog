@@ -1,0 +1,6 @@
+evaluation/nlg_based/parser/tree-sitter-java/
+evaluation/nlg_based/parser/tree-sitter-python/
+
+dataset/mining_atlas/Eval/
+dataset/mining_atlas/Training/
+dataset/mining_atlas/Testing/
