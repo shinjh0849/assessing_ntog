@@ -39,7 +39,7 @@ assessing_ntog
 - injected_asserts folder contains the oracles that injected in each NOGs for the execution level evaluation (test adequacy metrics).
 - mining_atlas folder contains the raw dataset that was used to training and evaluation, and the script to mine those dataset.
 
-    [Link](https://drive.google.com/drive/folders/1MA2fMbSXLNGgAZB6OU1kDwvHmfqeliv0?usp=sharing) to download our dataset.
+Link to download our dataset: <https://drive.google.com/drive/folders/1MA2fMbSXLNGgAZB6OU1kDwvHmfqeliv0?usp=sharing>
 
 ### If you want to run the minig script:
 
